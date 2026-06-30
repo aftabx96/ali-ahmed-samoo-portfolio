@@ -1,5 +1,7 @@
 # Ali Ahmed Samoo — Portfolio Website
 
+🔗 **Live site:** [aliahmedsamoo-portfolio.netlify.app](https://aliahmedsamoo-portfolio.netlify.app)
+
 A personal **portfolio website** for Ali Ahmed Samoo, built as a static site
 with HTML, CSS, and JavaScript. It showcases an about section, skills, a
 filterable portfolio gallery, blog highlights, and a contact section.
@@ -32,4 +34,3 @@ It's a static site — just open `index.html` in a browser, or serve the folder:
 python -m http.server 8000
 # then open http://localhost:8000
 ```
-
